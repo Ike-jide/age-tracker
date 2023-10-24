@@ -23,4 +23,5 @@
   .input input:focus {
     outline: none;
     border-color: #4f005f;
+    padding-left: 30px;
   }
